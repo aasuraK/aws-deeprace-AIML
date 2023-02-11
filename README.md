@@ -1,1 +1,1 @@
-# aws-deeprace-AIML
+"Excited to share my success with my ML regression model for AWS DeepRacer! After various failures, I finally achieved my goal of completing the race within 3 minutes by increasing rewards and penalties. Although my free training time allotted by the platform for this month is over, I can't wait to continue improving my model code. #AWSDeepRacer #MachineLearning #ReinforcementLearning #RaceToVictory 🏎💻💡"
